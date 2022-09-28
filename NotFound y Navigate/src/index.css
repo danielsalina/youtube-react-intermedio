@@ -1,0 +1,14 @@
+body {
+    background: #000;
+    color: #ffee00;
+    text-align: center;
+}
+
+a {
+    color: #ffee00;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
